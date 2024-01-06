@@ -1,6 +1,11 @@
 # seat_finder
 
 A new Flutter project.
+
+
+https://github.com/Sejzz/seat-finder/assets/91632881/2777cc15-4367-43e9-81c2-3d18d510afea
+
+
 ![s5](https://github.com/Sejzz/seat-finder/assets/91632881/2a2ef26c-e453-4ee6-a0df-48ff1774f4eb)
 ![s4](https://github.com/Sejzz/seat-finder/assets/91632881/7c3024a3-8f9e-4963-af25-87df7e8a0c39)
 ![s3](https://github.com/Sejzz/seat-finder/assets/91632881/44e6f095-2587-49aa-9a2a-9800458d0d4f)
